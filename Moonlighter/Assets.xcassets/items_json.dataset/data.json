@@ -1,0 +1,1526 @@
+{
+    "content": [
+        {
+            "name": "AC Adapter",
+            "itemDescription": "Usually find these between a \"battery\" and what requires the power. It must be some sort of converter.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 17.105,
+            "maxPrice": 20.993
+        },
+        {
+            "name": "Ancient Pot",
+            "itemDescription": "It has a small crack or two, but could still hold something. Beautifully crafted. Curious what it could have been used for.",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 110,
+            "maxPrice": 135
+        },
+        {
+            "name": "Ancient Sacred Volume",
+            "itemDescription": "Old and badly conserved volume full of words from a long-forgotten language.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 19.883,
+            "maxPrice": 24.402
+        },
+        {
+            "name": "Ancient Wood",
+            "itemDescription": "Petrified wood from years of sitting in and near particular elements.",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 1.1,
+            "maxPrice": 1.35
+        },
+        {
+            "name": "Argon Bottle",
+            "itemDescription": "I would often find the gas in this jar near clean, spotless metal. It must prevent some sort of chemical process resulting in rust.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 13.255,
+            "maxPrice": 16.268
+        },
+        {
+            "name": "Bard Puppet Egg",
+            "itemDescription": "Egg from a Bard Puppet companion.",
+            "culture": "Desert",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Blade Leaves",
+            "itemDescription": "Sharp leaves used as projectile weapons by several rather bothersome enemies...",
+            "culture": "Forest",
+            "stack":  10,
+            "minPrice": 330,
+            "maxPrice": 405
+        },
+        {
+            "name": "Blade Tree Sprout Egg",
+            "itemDescription": "Egg from a Blade Tree Sprout companion.",
+            "culture": "Forest",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Bomb Detonator",
+            "itemDescription": "Old trigger mechanism that used to be joined to a bomb. Luckily, the latter disappeared long ago.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 8.498,
+            "maxPrice": 10.43
+        },
+        {
+            "name": "Bone Fragment",
+            "itemDescription": "Piece of a bone from a skeleton that one day started to walk.",
+            "culture": "Interdimensional",
+            "stack":  10,
+            "minPrice": 2.558,
+            "maxPrice": 3.14
+        },
+        {
+            "name": "Bone Sword Blueprint",
+            "itemDescription": "It appears the sword described in this blueprint is made out of bones. Maybe the slime alchemist knows what to do with this...",
+            "culture": "Interdimensional",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Botany Jottings I",
+            "itemDescription": "We originally wanted to improve harvest sizes, but the introduction of the LF1 strain seems to have given plants a self-awareness...",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 2.2,
+            "maxPrice": 2.7
+        },
+        {
+            "name": "Botany Jottings II",
+            "itemDescription": "Plants moving of their own accord? Possibilities are limitless. A better harvest is only the beginning! I wonder if we could domesticate them?",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 2.2,
+            "maxPrice": 2.7
+        },
+        {
+            "name": "Botany Jottings III",
+            "itemDescription": "With continued injection of the LF1 Strain, particular plants have become formidable creatures capable of aggression. We must keep this in line.",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 2.2,
+            "maxPrice": 2.7
+        },
+        {
+            "name": "Broken Battery",
+            "itemDescription": "A broken receptacle for non-magical energy... Who created all these Artifacts?",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 3.135,
+            "maxPrice": 3.848
+        },
+        {
+            "name": "Broken Club",
+            "itemDescription": "Club broken beyond repair.",
+            "culture": "Merchant",
+            "stack":  1,
+            "minPrice": 330,
+            "maxPrice": 405
+        },
+        {
+            "name": "Broken Crossbow",
+            "culture": "Merchant",
+            "stack":  1,
+            "minPrice": 11,
+            "maxPrice": 13.5
+        },
+        {
+            "name": "Broken Dagger",
+            "culture": "Merchant",
+            "stack":  1,
+            "minPrice": 22,
+            "maxPrice": 27
+        },
+        {
+            "name": "Broken Katana",
+            "culture": "Merchant",
+            "stack":  1,
+            "minPrice": 2.2,
+            "maxPrice": 2.7
+        },
+        {
+            "name": "Broken Mace",
+            "itemDescription": "I mean... It's still a chunk of metal that can be thrown about...",
+            "culture": "Merchant",
+            "stack":  1,
+            "minPrice": 330,
+            "maxPrice": 405
+        },
+        {
+            "name": "Broken Morningstar",
+            "itemDescription": "A chipped, dulled, and only good-for-chunking lump of metal.",
+            "culture": "Merchant",
+            "stack":  1,
+            "minPrice": 11,
+            "maxPrice": 13.5
+        },
+        {
+            "name": "Broken Rapier",
+            "itemDescription": "An old, bent, and useless piece of metal.",
+            "culture": "Merchant",
+            "stack":  1,
+            "minPrice": 2.2,
+            "maxPrice": 2.7
+        },
+        {
+            "name": "Broken Sling",
+            "itemDescription": "A ragged piece of leather full of holes. It will never fire a projectile again.",
+            "culture": "Merchant",
+            "stack":  1,
+            "minPrice": 330,
+            "maxPrice": 405
+        },
+        {
+            "name": "Broken Sword",
+            "itemDescription": "Fairly useless in its current form, but I could easily smelt it down to craft something new!",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 165,
+            "maxPrice": 203
+        },
+        {
+            "name": "Broken Whip",
+            "itemDescription": "The leather completely ruined, this was probably once a great whip.",
+            "culture": "Merchant",
+            "minPrice": 22,
+            "maxPrice": 27
+        },
+        {
+            "name": "Carbon Fiber Plate",
+            "itemDescription": "Plates made of a thin and resistant fiber composite.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 4.703,
+            "maxPrice": 5.772
+        },
+        {
+            "name": "Carnivorous Mutae Jottings",
+            "itemDescription": "By introducing a steady stream of LF1 to a plant in place of injections, we hope to create a plant large enough to produce fruit for a city!",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 5.5,
+            "maxPrice": 6.75
+        },
+        {
+            "name": "Carnivorous Mutae Seeds",
+            "itemDescription": "Seeds that came out of the Forest Guardian upon defeating it. These must be one of a kind. Curious... Could they grow into something?...",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 5.5,
+            "maxPrice": 6.75
+        },
+        {
+            "name": "Chilled Lava",
+            "itemDescription": "Lava that appears to have been flash frozen. Always cold to the touch.",
+            "culture": "Desert",
+            "stack":  5,
+            "minPrice": 2.75,
+            "maxPrice": 3.375
+        },
+        {
+            "name": "Cloth Dye",
+            "itemDescription": "It would appear that this dye can fire-proof whatever article of clothing it is applied to. The Desert Dungeon is full of interesting items.",
+            "culture": "Desert",
+            "stack":  5,
+            "minPrice": 3.025,
+            "maxPrice": 3.713
+        },
+        {
+            "name": "Coins",
+            "itemDescription": "A collection of coins from different cultures ranging from gold coins to coarse and heavier ones.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 12.54,
+            "maxPrice": 15.39
+        },
+        {
+            "name": "Composite Bow Blueprint",
+            "itemDescription": "Blueprint for a bow designed to be fast. Maybe the slime alchemist knows what to do with this...",
+            "culture": "Interdimensional",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Conductor Metal",
+            "itemDescription": "Scrap metal found lying around the Tech Dungeon. Could possibly be used as a conductor when crafting.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 660,
+            "maxPrice": 810
+        },
+        {
+            "name": "Copper Reel",
+            "itemDescription": "Conductive copper spun into strands then wrapped into this reel. Easy to access. Creative design.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 8.25,
+            "maxPrice": 10.125
+        },
+        {
+            "name": "Crystal Rock",
+            "itemDescription": "A beautiful crystal of many colors. I've heard rumors of it being used as a conductor to fantastic results.",
+            "culture": "Golem",
+            "stack":  10,
+            "minPrice": 83,
+            "maxPrice": 102
+        },
+        {
+            "name": "Crystallized Energy",
+            "itemDescription": "It would appear the energy surging through a Golem crystallizes upon its destruction. Could we harness this power somehow?",
+            "culture": "Golem",
+            "stack":  10,
+            "minPrice": 110,
+            "maxPrice": 135
+        },
+        {
+            "name": "Desert Baby Slime Egg",
+            "itemDescription": "Egg from a Desert Baby Slime companion.",
+            "culture": "Desert",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Desert History I",
+            "itemDescription": "Three suns pierce the sky. Casting almost infinite light upon us. Their rotations aligned to only allow two days of darkness a year.",
+            "culture": "Desert",
+            "stack":  5,
+            "minPrice": 16.5,
+            "maxPrice": 20.25
+        },
+        {
+            "name": "Desert History III",
+            "itemDescription": "Their limitless heat has given us control of flame. It has powered our machines. And it has created the eternal lava that protects our cities.",
+            "culture": "Desert",
+            "stack":  5,
+            "minPrice": 16.5,
+            "maxPrice": 20.25
+        },
+        {
+            "name": "Desert Lava Idol",
+            "itemDescription": "An idol of Naja, made from the desert metal of the Desert Dungeon.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 24.007,
+            "maxPrice": 29.464
+        },
+        {
+            "name": "Desert Rope",
+            "itemDescription": "A rope... that doesn't catch fire... Whoever once resided in the Desert Dungeon must have been an incredibly inventive people.",
+            "culture": "Desert",
+            "stack":  5,
+            "minPrice": 495,
+            "maxPrice": 608
+        },
+        {
+            "name": "Desert Steel Ingot",
+            "itemDescription": "Raw steel found in the Desert Dungeon. Years of sandy winds seem to have hardened it beyond most metals.",
+            "culture": "Desert",
+            "stack":  5,
+            "minPrice": 8.25,
+            "maxPrice": 10.125
+        },
+        {
+            "name": "Desert Steel Sheet",
+            "itemDescription": "A resilient metal that becomes incredible flexible when a magnetic current is run through it. Must get the blacksmith to experiment with this.",
+            "culture": "Desert",
+            "stack":  10,
+            "minPrice": 2.75,
+            "maxPrice": 3.375
+        },
+        {
+            "name": "Desert Stone",
+            "itemDescription": "Polished white stone with a high melting point.",
+            "culture": "Desert",
+            "stack":  5,
+            "minPrice": 2.97,
+            "maxPrice": 3.645
+        },
+        {
+            "name": "Diamagnetic Sand",
+            "itemDescription": "Sand that actually reacts to magnetic fields. It's rare, but I've seen several sculptures use this material to create floating scenes of sand.",
+            "culture": "Desert",
+            "stack":  10,
+            "minPrice": 550,
+            "maxPrice": 675
+        },
+        {
+            "name": "Dimensional Fungus",
+            "itemDescription": "Fungus that plagues most materials or beings taht have been in contact with the dimensional fluid for a long time.",
+            "culture": "Interdimensional",
+            "stack":  10,
+            "minPrice": 12.54,
+            "maxPrice": 15.39
+        },
+        {
+            "name": "Dimensional Garbage",
+            "itemDescription": "Fragments of objects and materials that float in the dimensional fluid.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 12.54,
+            "maxPrice": 15.39
+        },
+        {
+            "name": "Dimensional Res. Mineral Ore",
+            "itemDescription": "The ore required to create the Dimensional Resistant Metal.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 12.54,
+            "maxPrice": 15.39
+        },
+        {
+            "name": "Dimensional Resistant Glass",
+            "itemDescription": "Thick glass able to resist the corruption caused by the fluid between dimensions.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 19.883,
+            "maxPrice": 24.402
+        },
+        {
+            "name": "Dimensional Resistant Metal",
+            "itemDescription": "Strange ochre metal known for its resistance to the fluid between dimensions.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 8.498,
+            "maxPrice": 10.43
+        },
+        {
+            "name": "Dimensional Suit Fabric",
+            "itemDescription": "A piece of fabric from a dimensional suit, the same fabric the Dimensional Police suits are made of.",
+            "culture": "ICT",
+            "stack":  5,
+            "minPrice": 55,
+            "maxPrice": 67.5
+        },
+        {
+            "name": "Electric Jelly",
+            "itemDescription": "This jelly is electric and I don't mean sweet jiggle dance moves... Extracted from Tech Slimes. I could craft some unheard of weapons with this.",
+            "culture": "Merchant",
+            "stack":  10,
+            "minPrice": 440,
+            "maxPrice": 540
+        },
+        {
+            "name": "Empowering Crystal",
+            "itemDescription": "Raw crystal source of magic power.",
+            "culture": "Merchant",
+            "stack":  5,
+            "minPrice": 110,
+            "maxPrice": 135
+        },
+        {
+            "name": "Energy Capacitor",
+            "itemDescription": "Small object. Tomo says it can store energy without magic. This could be useful to anyone.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 4.95,
+            "maxPrice": 6.075
+        },
+        {
+            "name": "Explosive Bow Blueprint",
+            "itemDescription": "It seems that the bow described in this blueprint can make its arrows explode. Maybe someone in this dungeon knows what to do with it...",
+            "culture": "Interdimensional",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Fabric",
+            "itemDescription": "Sturdy, but rough to the touch. I imagine some would want to use this in the creation of decorations.",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 275,
+            "maxPrice": 338
+        },
+        {
+            "name": "Fertile Soil",
+            "itemDescription": "A very rich soil that if transported correctly, could lead to a substantially healthier plant than one's standard soil.",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 1.1,
+            "maxPrice": 1.35
+        },
+        {
+            "name": "Fertilizer",
+            "itemDescription": "A strong fertilizer that can lead to larger than average plant growth.",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 1.1,
+            "maxPrice": 1.35
+        },
+        {
+            "name": "Fire Gem",
+            "itemDescription": "Instant spark upon sharp contact with stone or even coarse cloth. Perfect fire starter.",
+            "culture": "Desert",
+            "stack":  5,
+            "minPrice": 1.87,
+            "maxPrice": 2.295
+        },
+        {
+            "name": "Fire Jelly",
+            "itemDescription": "A jelly variant that appears to just constantly be on fire... Found in Desert Slimes. I can't drink anything made from this... can I?",
+            "culture": "Merchant",
+            "stack":  10,
+            "minPrice": 110,
+            "maxPrice": 135
+        },
+        {
+            "name": "Fireproof Cloth",
+            "itemDescription": "A fabric that refuses to burn. Often found wrapped around piles of sand. Possibly used to protect the sand during an extreme heating process?",
+            "culture": "Desert",
+            "stack":  10,
+            "minPrice": 1.265,
+            "maxPrice": 1.553
+        },
+        {
+            "name": "Flammable Dust",
+            "itemDescription": "Highly flammable dust. Great for rekindling a fire. I must keep some in stock near the stove.",
+            "culture": "Desert",
+            "stack":  10,
+            "minPrice": 440,
+            "maxPrice": 540
+        },
+        {
+            "name": "Fluid Conduct",
+            "itemDescription": "A conduit for transporting fluid, most likely lava. It looks designed to minimize any loss of heat during transportation.",
+            "culture": "Desert",
+            "stack":  5,
+            "minPrice": 4.015,
+            "maxPrice": 4.928
+        },
+        {
+            "name": "Fluid Vessel",
+            "itemDescription": "Such ornate designs for something appearing so basic. It is simply a container meant to mix various fluids and substances together.",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 1.705,
+            "maxPrice": 2.093
+        },
+        {
+            "name": "Flux Energy Jottings",
+            "itemDescription": "Crafted through compression of magic, this is the greatest achievement of our time.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 44,
+            "maxPrice": 54
+        },
+        {
+            "name": "Flying Golem Egg",
+            "itemDescription": "Egg from a Flying Golem companion.",
+            "culture": "Golem",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Forest Baby Slime Egg",
+            "itemDescription": "Egg from a Forest Baby Slime companion.",
+            "culture": "Forest",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Forest Fruits",
+            "itemDescription": "Various fruits gathered from within the Forest Dungeon... Some have been proven safe for consumption. Others... have not.",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 1.98,
+            "maxPrice": 2.43
+        },
+        {
+            "name": "Forest History I",
+            "itemDescription": "We were an intelligent species. So when the food shortages escalated, we believed we could solve our problem with science...",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 5.5,
+            "maxPrice": 6.75
+        },
+        {
+            "name": "Forest History II",
+            "itemDescription": "We created the LF1, and for awhile, things were good. Food was once again abundant and forests began appearing for the first time in ages!",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 5.5,
+            "maxPrice": 6.75
+        },
+        {
+            "name": "Forest History III",
+            "itemDescription": "The forest didn't stop growing though... and slowly our world was covered. The plants didn't stop growing though... and slowly... they took over.",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 5.5,
+            "maxPrice": 6.75
+        },
+        {
+            "name": "Forest Wood Figure",
+            "itemDescription": "A statue of Carnivorous Mutae sculpted in wood from the Forest Dungeon.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 24.007,
+            "maxPrice": 29.464
+        },
+        {
+            "name": "Fossil Bone",
+            "itemDescription": "A really old bone ressembling more a rock than a bone.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 12.54,
+            "maxPrice": 15.39
+        },
+        {
+            "name": "Foundry Rests",
+            "itemDescription": "I believe this to be the remains of an old foundry. If the Golems are created, what created them?",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 165,
+            "maxPrice": 203
+        },
+        {
+            "name": "Gas Suit Egg",
+            "itemDescription": "Egg from a Gas Suit companion.",
+            "culture": "Interdimensional",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Ghost Gauntlets Blueprint",
+            "itemDescription": "Blueprints for what appear to be intangible gloves. Maybe someone in this dungeon knows what to do with it...",
+            "culture": "Interdimensional",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Ghost in a Bottle",
+            "itemDescription": "Evil spirit trapped inside of a glass bottle. Better not let it out.",
+            "culture": "ICT",
+            "stack":  5,
+            "minPrice": 55,
+            "maxPrice": 67.5
+        },
+        {
+            "name": "Glass Lenses",
+            "itemDescription": "Glass shaped into a lens with the sole purpose of focusing magical energy. Very useful in the crafting of magical weapons.",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 110,
+            "maxPrice": 135
+        },
+        {
+            "name": "Gold Feather",
+            "itemDescription": "Feather from an unknown animal that keeps glowing even after years separated from its owner.",
+            "culture": "ICT",
+            "stack":  5,
+            "minPrice": 55,
+            "maxPrice": 67.5
+        },
+        {
+            "name": "Gold Runes",
+            "itemDescription": "These Gold Runes create wonderful patterns upon the Golems. Occasionally you can retrieve one intact after battle.",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 330,
+            "maxPrice": 405
+        },
+        {
+            "name": "Gold Strands",
+            "itemDescription": "Actual gold strands woven into wires used by many of the machines in the Tech Dungeon. Maintenance must be costly.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 2.31,
+            "maxPrice": 2.835
+        },
+        {
+            "name": "Golem Baby Slime Egg",
+            "itemDescription": "Egg from a Golem Baby Slime companion.",
+            "culture": "Golem",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Golem Chisel",
+            "itemDescription": "This is definitely a chisel used to carve and shape a Golem. From its frame, I imagine the architects were not much different than ourselves.",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 550,
+            "maxPrice": 675
+        },
+        {
+            "name": "Golem Core",
+            "itemDescription": "The core of the very \"heart\" of a Golem. We have found ways to harness the energy, but are unable to create life from it.",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 110,
+            "maxPrice": 135
+        },
+        {
+            "name": "Golem Designs I",
+            "itemDescription": "These images and hastily written notes seem to resemble a schematic of some sort. Something akin to the Golem roaming around the Golem Dungeon.",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 1.65,
+            "maxPrice": 2.025
+        },
+        {
+            "name": "Golem Designs II",
+            "itemDescription": "Further notes on how to create the physical body of a Golem, but nothing on how to actually animate it...",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 1.65,
+            "maxPrice": 2.025
+        },
+        {
+            "name": "Golem Designs III",
+            "itemDescription": "Finally, images on inserting a power source into a Golem. Most frustratingly though, the part on fusing the power source is scratched out...",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 1.65,
+            "maxPrice": 2.025
+        },
+        {
+            "name": "Golem History I",
+            "itemDescription": "We all come from the dirt. Life is itself dirt. A cycle of birth and decay. Something no man, woman, or even stone can escape.",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 2.75,
+            "maxPrice": 3.375
+        },
+        {
+            "name": "Golem History II",
+            "itemDescription": "As we came from dirt, so did the stone. Harnessing the life energy flowing through the ground, we animated rock to serve us.",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 2.75,
+            "maxPrice": 3.375
+        },
+        {
+            "name": "Golem History III",
+            "itemDescription": "Stone rose to assist us, to protect us. While our hands crafted their life, their hands cradled ours.",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 2.75,
+            "maxPrice": 3.375
+        },
+        {
+            "name": "Golem King Energy Crystal",
+            "itemDescription": "A huge crystal with enough energy to power the enormous Golem King...",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 2.75,
+            "maxPrice": 3.375
+        },
+        {
+            "name": "Golem King Jottings",
+            "itemDescription": "The king of stone. Imbued with the largest energy crystal found, this entity will serve to protect us from any who wish us harm.",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 2.75,
+            "maxPrice": 3.375
+        },
+        {
+            "name": "Golem Statue",
+            "itemDescription": "A statue of The Golem King made out of rock chunks from the Golem Dungeon.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 24.007,
+            "maxPrice": 29.464
+        },
+        {
+            "name": "Golem Turret Egg",
+            "itemDescription": "Egg from a Golem Turret companion.",
+            "culture": "Golem",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Golem Volume",
+            "itemDescription": "The text is too worn, too faded to be legible. But the carvings upon the stone cover are meticulously detailed.",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 440,
+            "maxPrice": 540
+        },
+        {
+            "name": "Graaf Generator Egg",
+            "itemDescription": "Egg from a Graaf Generator companion.",
+            "culture": "Tech",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Guidance Desert Potion",
+            "itemDescription": "Fireflies will guide the user to the next floor of the Desert Dungeon.",
+            "culture": "Merchant",
+            "stack":  5,
+            "minPrice": 8.8,
+            "maxPrice": 10.8
+        },
+        {
+            "name": "Guidance Forest Potion",
+            "itemDescription": "Fireflies will guide the user to the next floor of the Forest Dungeon.",
+            "culture": "Merchant",
+            "stack":  5,
+            "minPrice": 2.75,
+            "maxPrice": 3.375
+        },
+        {
+            "name": "Guidance Golem Potion",
+            "itemDescription": "Fireflies will guide the user to the next floor of the Golem Dungeon.",
+            "culture": "Merchant",
+            "stack":  5,
+            "minPrice": 440,
+            "maxPrice": 540
+        },
+        {
+            "name": "Guidance Tech Potion",
+            "itemDescription": "Fireflies will guide the user to the next floor of the Tech Dungeon.",
+            "culture": "Merchant",
+            "stack":  5,
+            "minPrice": 17.6,
+            "maxPrice": 21.6
+        },
+        {
+            "name": "Hardened Steel",
+            "itemDescription": "Strongest steel I have come across. Perfect for crafting new equipment.",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 330,
+            "maxPrice": 405
+        },
+        {
+            "name": "Heavy Metal Plates",
+            "itemDescription": "Scratched metal plates from an old armor.",
+            "culture": "Interdimensional",
+            "stack":  10,
+            "minPrice": 4.703,
+            "maxPrice": 5.772
+        },
+        {
+            "name": "High Levitation Core",
+            "itemDescription": "Large core usually attached to large chunks of metal floating over Diamagnetic Sand in the Desert Dungeon.",
+            "culture": "Desert",
+            "stack":  5,
+            "minPrice": 16.5,
+            "maxPrice": 20.25
+        },
+        {
+            "name": "HP Potion I",
+            "itemDescription": "Restores 40 Health. Should always have one or two of these on hand.",
+            "culture": "Merchant",
+            "stack":  5,
+            "minPrice": 138,
+            "maxPrice": 170
+        },
+        {
+            "name": "HP Potion II",
+            "itemDescription": "Restores 75 Health. Definitely worth the price.",
+            "culture": "Merchant",
+            "stack":  5,
+            "minPrice": 880,
+            "maxPrice": 1.08
+        },
+        {
+            "name": "HP Potion III",
+            "itemDescription": "Restores 200 Health. It would have been nice to have this when I ran into that creature...",
+            "culture": "Merchant",
+            "stack":  5,
+            "minPrice": 3.3,
+            "maxPrice": 4.05
+        },
+        {
+            "name": "HP Potion IV",
+            "itemDescription": "Restores 500 Health. The Witch sure has outdone herself here.",
+            "culture": "Merchant",
+            "stack":  5,
+            "minPrice": 8.8,
+            "maxPrice": 10.8
+        },
+        {
+            "name": "HP Potion V",
+            "itemDescription": "Restores 750 Health. Should always have one or two of these on hand.",
+            "culture": "Merchant",
+            "stack":  5,
+            "minPrice": 8.25,
+            "maxPrice": 10.125
+        },
+        {
+            "name": "HP Potion VI",
+            "itemDescription": "Restores 1500 Health. Should always have one or two of these on hand.",
+            "culture": "Merchant",
+            "stack":  5,
+            "minPrice": 10.725,
+            "maxPrice": 13.163
+        },
+        {
+            "name": "HP Potion VII",
+            "itemDescription": "Restores 2500 Health. Should always have one or two of these on hand.",
+            "culture": "Merchant",
+            "stack":  5,
+            "minPrice": 13.2,
+            "maxPrice": 16.2
+        },
+        {
+            "name": "HP Potion VIII",
+            "itemDescription": "Restores 4500 Health. Should always have one or two of these on hand.",
+            "culture": "Merchant",
+            "stack":  5,
+            "minPrice": 16.5,
+            "maxPrice": 20.25
+        },
+        {
+            "name": "Hyper Potion",
+            "itemDescription": "Restores full Health. A vital potion for the more difficult Dungeons.",
+            "culture": "Merchant",
+            "stack":  5,
+            "minPrice": 22.572,
+            "maxPrice": 27.702
+        },
+        {
+            "name": "Inflammable Liquid",
+            "itemDescription": "Easily ignitable...",
+            "culture": "Desert",
+            "stack":  5,
+            "minPrice": 4.95,
+            "maxPrice": 6.075
+        },
+        {
+            "name": "Insulating Dust",
+            "itemDescription": "Dust used to insulate conduits from heat.",
+            "culture": "Desert",
+            "stack":  10,
+            "minPrice": 2.255,
+            "maxPrice": 2.768
+        },
+        {
+            "name": "Iron Bar",
+            "itemDescription": "Iron. Fairly basic, but the very cornerstone of any mid-tier equipment one may wish to craft.",
+            "culture": "Golem",
+            "stack":  10,
+            "minPrice": 28,
+            "maxPrice": 35
+        },
+        {
+            "name": "Jewels",
+            "itemDescription": "A diverse collection of jewels crafted using different techniques and stones of all kinds.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 19.883,
+            "maxPrice": 24.402
+        },
+        {
+            "name": "Life Fluid",
+            "itemDescription": "A fluid that appears to animate and give life to regular plants. Please note - Keep away from the Venus Flytrap.",
+            "culture": "Forest",
+            "stack":  10,
+            "minPrice": 440,
+            "maxPrice": 540
+        },
+        {
+            "name": "Light Essence",
+            "itemDescription": "Seemingly ordinary when contained, but it began to glow when spilled upon my arm. Must react to living organisms.",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 440,
+            "maxPrice": 540
+        },
+        {
+            "name": "Light Power Crystal",
+            "itemDescription": "A crystal similar to the ones in the Golem Dungeon but containing even more energy and light.",
+            "culture": "ICT",
+            "stack":  5,
+            "minPrice": 55,
+            "maxPrice": 67.5
+        },
+        {
+            "name": "Magic Mushroom",
+            "itemDescription": "A mushroom giving off a subtle glow. The consumption of it grants random magical attributes for awhile... Never a safe bet to be honest.",
+            "culture": "Forest",
+            "stack":  10,
+            "minPrice": 66,
+            "maxPrice": 81
+        },
+        {
+            "name": "Magic Wood",
+            "itemDescription": "Wood soaked in magical residue for years. Gives off small, blue sparks. Potentially useful material in resisting other elemental magics.",
+            "culture": "Forest",
+            "stack":  10,
+            "minPrice": 110,
+            "maxPrice": 135
+        },
+        {
+            "name": "Magnetic Core",
+            "itemDescription": "A device found at the center of Desert Golems, very much similar to the one found in the living statues of the Golem Dungeon.",
+            "culture": "Desert",
+            "stack":  10,
+            "minPrice": 330,
+            "maxPrice": 405
+        },
+        {
+            "name": "Magnetic Tool",
+            "itemDescription": "A tool used to create a magnetic field around a material with the correct polarization.",
+            "culture": "Desert",
+            "stack":  5,
+            "minPrice": 7.15,
+            "maxPrice": 8.775
+        },
+        {
+            "name": "Magnetite",
+            "itemDescription": "A mineral used to magnetize other materials.",
+            "culture": "Desert",
+            "stack":  10,
+            "minPrice": 880,
+            "maxPrice": 1.08
+        },
+        {
+            "name": "Mechanic Big Sword Blueprint",
+            "itemDescription": "Blueprint for a mechanical big sword. Maybe the slime alchemist knows what to do with this...",
+            "culture": "Interdimensional",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Mercury",
+            "itemDescription": "Liquid metal? On cold days it seems to solidify, but at room temperature it just melts.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 1.705,
+            "maxPrice": 2.093
+        },
+        {
+            "name": "Mimic Egg",
+            "itemDescription": "Egg from a Mimic companion.",
+            "culture": "Merchant",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Modified Seeds",
+            "itemDescription": "Seeds that appear to be modified through some sort of experimentation... Perhaps failed? They never seem to grow anything.",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 935,
+            "maxPrice": 1.148
+        },
+        {
+            "name": "Monster Skull",
+            "itemDescription": "The skull of an unknown beast.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 2.558,
+            "maxPrice": 3.14
+        },
+        {
+            "name": "Morning Star Blueprint",
+            "itemDescription": "Blueprint for a big sword of tremendous weight. Maybe the slime alchemist knows what to do with this...",
+            "culture": "Interdimensional",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Mother Golem Egg",
+            "itemDescription": "Egg from a Mother Golem companion.",
+            "culture": "Desert",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Naja Jottings",
+            "itemDescription": "In moments of true darkness, true terror arises. Naja, our Guardian crafted of stone, lava, and of the three suns will then shine brightest.",
+            "culture": "Desert",
+            "stack":  5,
+            "minPrice": 16.5,
+            "maxPrice": 20.25
+        },
+        {
+            "name": "Nutritive Water",
+            "itemDescription": "Water swirling with nutrients for plant growth. Not for human consumption. Zenon can not tell me that enough...",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 1.925,
+            "maxPrice": 2.363
+        },
+        {
+            "name": "Obsidian Rock",
+            "itemDescription": "Dark and shiny material obtained from cooling lava.",
+            "culture": "ICT",
+            "stack":  5,
+            "minPrice": 55,
+            "maxPrice": 67.5
+        },
+        {
+            "name": "Old Bulb",
+            "itemDescription": "A rather large bulb once belonging to a now dead plant... It isn't alive... but isn't really dead either...",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 2.2,
+            "maxPrice": 2.7
+        },
+        {
+            "name": "Old Golem Minion Design",
+            "itemDescription": "The text is faded, but looks to be instructions on how to create one of the living statues found in the Golem Dungeon.",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 440,
+            "maxPrice": 540
+        },
+        {
+            "name": "Parasite Spear Blueprint",
+            "itemDescription": "The blueprint for this spear has lots of toxicity warning signs. Maybe the slime alchemist knows what to do with this...",
+            "culture": "Interdimensional",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Petals",
+            "itemDescription": "Some petals I found particular pleasing to the eye from various plants in the Dungeons.",
+            "culture": "Forest",
+            "stack":  10,
+            "minPrice": 110,
+            "maxPrice": 135
+        },
+        {
+            "name": "Plant Flesh",
+            "itemDescription": "High fiber count in these plants. Very useful for crafting.",
+            "culture": "Forest",
+            "stack":  10,
+            "minPrice": 66,
+            "maxPrice": 81
+        },
+        {
+            "name": "Plasma Charge",
+            "itemDescription": "A small metal and crystal box filled with a fluid similar to lava.",
+            "culture": "ICT",
+            "stack":  5,
+            "minPrice": 55,
+            "maxPrice": 67.5
+        },
+        {
+            "name": "Plastic Cloth",
+            "itemDescription": "A cloth made out of plastic, highly resistant and flexible.",
+            "culture": "Interdimensional",
+            "stack":  10,
+            "minPrice": 4.703,
+            "maxPrice": 5.772
+        },
+        {
+            "name": "Plastic Film",
+            "itemDescription": "Ever so thin layer of \"plastic\". Found it wrapped around a bunch of wires.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 2.42,
+            "maxPrice": 2.97
+        },
+        {
+            "name": "Poison Treated Glass",
+            "itemDescription": "A glass with a quimic treatment to make it resistant to poison.",
+            "culture": "ICT",
+            "stack":  5,
+            "minPrice": 55,
+            "maxPrice": 67.5
+        },
+        {
+            "name": "Power Supply",
+            "itemDescription": "A compartment perfectly shaped to hold the objects called \"batteries\".",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 16.005,
+            "maxPrice": 19.643
+        },
+        {
+            "name": "Preserved Root",
+            "itemDescription": "A very old, very well-preserved root.",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 660,
+            "maxPrice": 810
+        },
+        {
+            "name": "Pure Acid",
+            "itemDescription": "Pure acid. Don't know what possessed me to attempt collecting this stuff. Melts through almost anything.",
+            "culture": "Forest",
+            "stack":  10,
+            "minPrice": 440,
+            "maxPrice": 540
+        },
+        {
+            "name": "Recharger Egg",
+            "itemDescription": "Egg from a Recharger companion.",
+            "culture": "Tech",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Resistant Glass",
+            "itemDescription": "Heat and sand blasted glass. Used as an insulate for various objects against extreme temperatures.",
+            "culture": "Desert",
+            "stack":  5,
+            "minPrice": 4.73,
+            "maxPrice": 5.805
+        },
+        {
+            "name": "Reveal Desert Potion",
+            "itemDescription": "Reveals the Desert Dungeon map upon use.",
+            "culture": "Merchant",
+            "minPrice": 17.6,
+            "maxPrice": 21.6
+        },
+        {
+            "name": "Reveal Forest Potion",
+            "itemDescription": "Reveals the Forest Dungeon map upon use.",
+            "culture": "Merchant",
+            "minPrice": 5.5,
+            "maxPrice": 6.75
+        },
+        {
+            "name": "Reveal Golem Potion",
+            "itemDescription": "Reveals the Golem Dungeon map upon use.",
+            "culture": "Merchant",
+            "stack":  5,
+            "minPrice": 880,
+            "maxPrice": 1.08
+        },
+        {
+            "name": "Reveal Tech Potion",
+            "itemDescription": "Reveals the Tech Dungeon map upon use.",
+            "culture": "Merchant",
+            "stack":  5,
+            "minPrice": 35.2,
+            "maxPrice": 43.2
+        },
+        {
+            "name": "Rich Jelly",
+            "itemDescription": "A jelly-like substance with many curative properties. Can be extracted from the various Slimes. Essential in brewing potions.",
+            "culture": "Merchant",
+            "stack":  10,
+            "minPrice": 6,
+            "maxPrice": 8
+        },
+        {
+            "name": "Root",
+            "itemDescription": "A root from a giant plant. Very useful in the crafting of new bows.",
+            "culture": "Golem",
+            "stack":  10,
+            "minPrice": 6,
+            "maxPrice": 8
+        },
+        {
+            "name": "Rune Tool",
+            "itemDescription": "Looks to of been a tool used to inscribe text upon metal and stone. Could perhaps be used to inscribe runes upon my equipment.",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 1.65,
+            "maxPrice": 2.025
+        },
+        {
+            "name": "Shock Absorb Material",
+            "itemDescription": "A chunk of material used to protect more valuable things from shocks and crashes.",
+            "culture": "ICT",
+            "stack":  5,
+            "minPrice": 55,
+            "maxPrice": 67.5
+        },
+        {
+            "name": "Small Spectral Flame",
+            "itemDescription": "The flame of a ghost from another dimension. Beautiful and ethereal.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 4.703,
+            "maxPrice": 5.772
+        },
+        {
+            "name": "Soldering Iron",
+            "itemDescription": "A tool used to fuse various metals together.",
+            "culture": "Desert",
+            "stack":  5,
+            "minPrice": 5.885,
+            "maxPrice": 7.223
+        },
+        {
+            "name": "Speed Powder",
+            "itemDescription": "A powder that can accelerate plant growth. Perhaps useful in a potion?",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 2.2,
+            "maxPrice": 2.7
+        },
+        {
+            "name": "Spike Chain Egg",
+            "itemDescription": "Egg from a Spike Chain companion.",
+            "culture": "Interdimensional",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Spore Sword Blueprint",
+            "itemDescription": "The sword described in this blueprint seems organic and poisonous. Maybe  someone in this dungeon knows what to do with it...",
+            "culture": "Interdimensional",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Staff Spear Blueprint",
+            "itemDescription": "A blueprint for a staff capable of shooting. Maybe the slime alchemist knows what to do with this...",
+            "culture": "Interdimensional",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Straw",
+            "itemDescription": "A simple pile of straw. Nothing astonishing. Appears to be covered in some corrosive liquids though. Perhaps used as insulation for something?",
+            "culture": "Forest",
+            "stack":  5,
+            "minPrice": 550,
+            "maxPrice": 675
+        },
+        {
+            "name": "Strong Leaves",
+            "itemDescription": "Hardened leaves that are flexible enough to ricochet off walls instead of shattering. That was a lesson hard learned...",
+            "culture": "Forest",
+            "stack":  10,
+            "minPrice": 440,
+            "maxPrice": 540
+        },
+        {
+            "name": "Tech Explosive",
+            "itemDescription": "A high quality explosive kept inactive so long who knows if it still works...",
+            "culture": "ICT",
+            "stack":  5,
+            "minPrice": 55,
+            "maxPrice": 67.5
+        },
+        {
+            "name": "Tech History I",
+            "itemDescription": "Magic ran rampant in the land. Both creatures and man of unimaginable power, attained at the roll of a dice, took advantage of the lesser...",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 44,
+            "maxPrice": 54
+        },
+        {
+            "name": "Tech History II",
+            "itemDescription": "It was the divide between magics and non-magics that shaped our world as we know it. Everything changed when magic was captured.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 44,
+            "maxPrice": 54
+        },
+        {
+            "name": "Tech History III",
+            "itemDescription": "Harnessed as pure power, magic was made available to anyone who wished it. Through this captured magic, our civilization flourished.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 44,
+            "maxPrice": 54
+        },
+        {
+            "name": "Tech Recycled Metal Ball",
+            "itemDescription": "A recycled ball made of different metals from the Tech Dungeon. Its details resemble the Energy Flux from the Tech Dungeon.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 24.007,
+            "maxPrice": 29.464
+        },
+        {
+            "name": "Teethstone",
+            "itemDescription": "Very sharp stone, commonly found on the bodies of ancient Golems.",
+            "culture": "Golem",
+            "stack":  10,
+            "minPrice": 6,
+            "maxPrice": 8
+        },
+        {
+            "name": "Tesla Baby Slime Egg",
+            "itemDescription": "Egg from a Tesla Baby Slime companion.",
+            "culture": "Tech",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Tesla Coil Engine",
+            "itemDescription": "Electricity literally jumps off of the coil. Must find a way to craft this into a weapon.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 5.5,
+            "maxPrice": 6.75
+        },
+        {
+            "name": "Thermo Magnetic Engine",
+            "itemDescription": "With so many whirling parts, it appears magical. A device that transforms heat energy into magnetic waves.",
+            "culture": "Desert",
+            "stack":  5,
+            "minPrice": 10.12,
+            "maxPrice": 12.42
+        },
+        {
+            "name": "Thief Gloves Blueprint",
+            "itemDescription": "The gloves in this blueprint are made for thieves. Maybe the slime alchemist knows what to do with this...",
+            "culture": "Interdimensional",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Toxic Liquid",
+            "itemDescription": "Volatile liquid used to create poisonous clouds.",
+            "culture": "Interdimensional",
+            "stack":  5,
+            "minPrice": 2.558,
+            "maxPrice": 3.14
+        },
+        {
+            "name": "Treated Wood",
+            "itemDescription": "Wood treated to resist corrosive liquids.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 5.665,
+            "maxPrice": 6.953
+        },
+        {
+            "name": "Triple Cell Battery",
+            "itemDescription": "A much larger variant of the Capacitor. It would appear this can store massive amounts of non-magical energy.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 11,
+            "maxPrice": 13.5
+        },
+        {
+            "name": "Tungsten Reel",
+            "itemDescription": "This metal seemed to be able to take a high amount of heat before finally melting.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 9.46,
+            "maxPrice": 11.61
+        },
+        {
+            "name": "Vacuum Tube",
+            "itemDescription": "Small glass globe with some metal twigs inside it. Pretty, but no idea what this is used for.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 7.59,
+            "maxPrice": 9.315
+        },
+        {
+            "name": "Venom Jelly",
+            "itemDescription": "A poisonous jelly variant found in Forest Slimes. Please extract with care.",
+            "culture": "Merchant",
+            "stack":  10,
+            "minPrice": 22,
+            "maxPrice": 27
+        },
+        {
+            "name": "Venomous Spores",
+            "itemDescription": "The title pretty much says it. Venomous. Not fun. Used by many enemies in the Forest Dungeon. Be wary...",
+            "culture": "Forest",
+            "stack":  10,
+            "minPrice": 66,
+            "maxPrice": 81
+        },
+        {
+            "name": "Vine",
+            "itemDescription": "A strong, yet flexible material used by the Tangle creatures to protect themselves.",
+            "culture": "Golem",
+            "stack":  10,
+            "minPrice": 3,
+            "maxPrice": 4
+        },
+        {
+            "name": "Volcanic Stone",
+            "itemDescription": "A stone formed from magma sitting in one location for too long. Round and very porous. Great for filters.",
+            "culture": "Desert",
+            "stack":  10,
+            "minPrice": 110,
+            "maxPrice": 135
+        },
+        {
+            "name": "Water Sphere",
+            "itemDescription": "A milky white sphere or some unknown material containing water emitting a strange, almost eerie light.",
+            "culture": "Golem",
+            "stack":  10,
+            "minPrice": 110,
+            "maxPrice": 135
+        },
+        {
+            "name": "Welding Gun",
+            "itemDescription": "Through the use of several other resources, this device can bond together particular metals firmly together.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 12.815,
+            "maxPrice": 15.728
+        },
+        {
+            "name": "Welding Rods",
+            "itemDescription": "Metal in a thin wire. Used as a bonding agent.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 3.74,
+            "maxPrice": 4.59
+        },
+        {
+            "name": "Whetstone",
+            "itemDescription": "Basic stone used by blacksmiths to grind and sharpen weapons. Can never have too many of these.",
+            "culture": "Golem",
+            "stack":  10,
+            "minPrice": 17,
+            "maxPrice": 21
+        },
+        {
+            "name": "White Stone",
+            "itemDescription": "Piece of a container for preserving the properties of infused water.",
+            "culture": "Golem",
+            "stack":  5,
+            "minPrice": 275,
+            "maxPrice": 338
+        },
+        {
+            "name": "Wind Tree Sprout Egg",
+            "itemDescription": "Egg from a Wind Tree Sprout companion.",
+            "culture": "Forest",
+            "stack":  1,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Wires",
+            "itemDescription": "Small strands of metal used to conduct electricity.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 2.805,
+            "maxPrice": 3.443
+        },
+        {
+            "name": "Wolfram Rock",
+            "itemDescription": "A raw version of the tungsten metal. Unprocessed, but surely valuable to anyone in need of the material.",
+            "culture": "Tech",
+            "stack":  5,
+            "minPrice": 6.985,
+            "maxPrice": 8.573
+        }
+    ]
+}

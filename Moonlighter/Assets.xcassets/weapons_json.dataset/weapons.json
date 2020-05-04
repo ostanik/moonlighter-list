@@ -1,0 +1,804 @@
+{
+    "content": [
+        {
+            "name": "Spore Sword",
+            "itemDescription": "A short sword with poisonous abilities when transformed. Each attack throws two spores and envenoms every enemy that hits the wielder.",
+            "culture": "Sword and Shield",
+            "stack": 0,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Morning Star",
+            "itemDescription": "A knight's morning star is so heavy it is carried as a Big Sword. When transformed its weight can provoke a low-intensity seism in the room.",
+            "culture": "Big Sword",
+            "stack": 0,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Ghost Gloves",
+            "itemDescription": "Ghostly gloves able to contact enemies despite not being tangible. When transformed they are able to create spiritual projectiles.",
+            "culture": "Gloves",
+            "stack": 0,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Thief Gauntlet",
+            "itemDescription": "Famous type of gloves beloved by robbers. When transformed they make enemies drop items in exchange of users health.",
+            "culture": "Gloves",
+            "stack": 0,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Gas Spear",
+            "itemDescription": "A poisonous spear filled with a toxic liquid. When transformed it expels toxic gas that envenoms enemies.",
+            "culture": "Spear",
+            "stack": 0,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Bone Sword",
+            "itemDescription": "A short sword made out of bones. When transformed, its speed and damage are increased.",
+            "culture": "Sword and Shield",
+            "stack": 0,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Composite Bow",
+            "itemDescription": "Due to the flexible and light materials of this bow its shooting speed increases when transformed.",
+            "culture": "Bow",
+            "stack": 0,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Staff Spear",
+            "itemDescription": "A fire staff from a magical dimension. When transformed it is able to cast fire balls from its tip.",
+            "culture": "Spear",
+            "stack": 0,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Explosive Bow",
+            "itemDescription": "High tech bow that adds to each arrow an explosive head when transformed.",
+            "culture": "Bow",
+            "stack": 0,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Mechanic Big Sword",
+            "itemDescription": "",
+            "culture": "Big Sword",
+            "stack": 0,
+            "minPrice": 0,
+            "maxPrice": 0
+        },
+        {
+            "name": "Training Short Sword",
+            "itemDescription": "With sword in hand and shield in the other, this combination strikes a perfect balance between attack and defense.",
+            "culture": "Sword and Shield",
+            "stack": 0,
+            "minPrice": 1.1,
+            "maxPrice": 1.35
+        },
+        {
+            "name": "Training Big Sword",
+            "itemDescription": "It's a big sword. Large attack area, but it isn't very sharp. You are basically swinging an oversized metal bat with this equipped.",
+            "culture": "Big Sword",
+            "stack": 0,
+            "minPrice": 1.1,
+            "maxPrice": 1.35
+        },
+        {
+            "name": "Training Spear",
+            "itemDescription": "The spear is the longest ranged melee weapon one could wield. Easy to fling around, but difficult to master.",
+            "culture": "Spear",
+            "stack": 0,
+            "minPrice": 1.1,
+            "maxPrice": 1.35
+        },
+        {
+            "name": "Training Bow",
+            "itemDescription": "Wood and metal from the Golem culture merge harmoniously to create a well-balanced bow.",
+            "culture": "Bow",
+            "stack": 0,
+            "minPrice": 1.1,
+            "maxPrice": 1.35
+        },
+        {
+            "name": "Training Gloves",
+            "itemDescription": "Incredibly light, incredibly fast, incredibly satisfying. Due to their short range though, they are much riskier than other weapons.",
+            "culture": "Gloves",
+            "stack": 0,
+            "minPrice": 1.1,
+            "maxPrice": 1.35
+        },
+        {
+            "name": "Broom Spear",
+            "itemDescription": "A tool with one, simple purpose. To clean. At least, that is if held in untrained hands.",
+            "culture": "Spear",
+            "stack": 0,
+            "minPrice": 55,
+            "maxPrice": 68
+        },
+        {
+            "name": "Rough Gloves",
+            "itemDescription": "May Stun. These are not so much gloves, but small boulders crudely attached to your hands.",
+            "culture": "Gloves",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Soldier Short Sword",
+            "itemDescription": "The best materials of the Golem culture polished to a fault.",
+            "culture": "Sword and Shield",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Rusty Short Sword",
+            "itemDescription": "May Stun. Why cut when you can bash. At least.... that is the thought with this one.",
+            "culture": "Sword and Shield",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Buster Big Sword",
+            "itemDescription": "This greatsword is the result of countless hours of polishing the blade using the unique rocks and water of the Golem Dungeon.",
+            "culture": "Big Sword",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Warrior Spear",
+            "itemDescription": "A mighty spear built with the strength required to shape Golems.",
+            "culture": "Spear",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Golem Drill Spear",
+            "itemDescription": "May Stun. Intended for mining, the spear head was made incredibly hard to pierce through rock. This principle applies to most enemies.",
+            "culture": "Spear",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Catapult Bow",
+            "itemDescription": "May Stun. I mean... This thing comprise of random resources from the Golem Dungeon is essentially chunking rocks.",
+            "culture": "Bow",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Rock Big Sword",
+            "itemDescription": "May Stun. Really, they decided to throw out the idea of a sword cutting with this one. Designed to purely crush your foes.",
+            "culture": "Big Sword",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Steel Boots",
+            "itemDescription": "Offer resounding protection. Which is good, because one is not going to be dodging musch with this much metal strapped to their feet.",
+            "culture": "Boots",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Iron Boots",
+            "itemDescription": "Originally mass produced for soldiers of the Grand Army, but works equally well for anyone Dungeon diving.",
+            "culture": "Boots",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Fabric Boots",
+            "itemDescription": "Boots made out of resilient fabric. Perfect for travelers, but not the best at protecting feet from enemy attacks.",
+            "culture": "Boots",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Steel Chestplate",
+            "itemDescription": "Chestplate offering the best protection against enemies. It's incredibly heavy though. Basically a chunk of steel strapped to ones chest.",
+            "culture": "Chestplate",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Iron Chestplate",
+            "itemDescription": "Basic armor most commonly used by Merchants. Fairly light with decent resistance and mobility.",
+            "culture": "Chestplate",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Fabric Chestplate",
+            "itemDescription": "The sturdy fabric of this tunic is durable while remaining light.",
+            "culture": "Chestplate",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Steel Helmet",
+            "itemDescription": "Layers of the heaviest, thickest metals crafted into a sturdy, resilient, damage reducing helmet.",
+            "culture": "Helmet",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Iron Helmet",
+            "itemDescription": "Headgear made from the lightest metals available. It's a trade off between armor and agility.",
+            "culture": "Helmet",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Fabric Bandana",
+            "itemDescription": "This semi-ordinary bandana is weaved together with the strongest fibers to help protect the wearer.",
+            "culture": "Helmet",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Hero's Bow",
+            "itemDescription": "Strange ancient bow made from materials that can't be found in this world.",
+            "culture": "Bow",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Hero's Sword",
+            "itemDescription": "Old sword said to have been carried by a legendary hero.",
+            "culture": "Sword and Shield",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Hunter Bow",
+            "itemDescription": "Wood and metal from the Golem culture merge harmoniously to create a well-balanced bow.",
+            "culture": "Bow",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Fighter Gloves",
+            "itemDescription": "Let us be honest for a moment. These are just giant claws made of Golem Iron. As equally ferocious as they are crude.",
+            "culture": "Gloves",
+            "stack": 1,
+            "minPrice": 4.4,
+            "maxPrice": 5.4
+        },
+        {
+            "name": "Ragnarok Big Sword",
+            "itemDescription": "Big sword with so much strength in it that it is said to bring the end of the world.",
+            "culture": "Big Sword",
+            "stack": 1,
+            "minPrice": 501.6,
+            "maxPrice": 615.6
+        },
+        {
+            "name": "Ether Sable",
+            "itemDescription": "Sword with a blade made by manipulating photons. Its design is owned by a dimensional militia.",
+            "culture": "Sword and Shield",
+            "stack": 1,
+            "minPrice": 501.6,
+            "maxPrice": 615.6
+        },
+        {
+            "name": "Valkyrie Spear",
+            "itemDescription": "Spear carried by mighty female warriors in other dimension known for their skill at combat.",
+            "culture": "Spear",
+            "stack": 1,
+            "minPrice": 501.6,
+            "maxPrice": 615.6
+        },
+        {
+            "name": "Master Fists",
+            "itemDescription": "The best design for a pair of gloves. Brought from a dimension where a famous contact warrior created them.",
+            "culture": "Gloves",
+            "stack": 1,
+            "minPrice": 501.6,
+            "maxPrice": 615.6
+        },
+        {
+            "name": "Runic Bow",
+            "itemDescription": "Bow full of runes allowing it to create mortal immaterial arrows.",
+            "culture": "Bow",
+            "stack": 1,
+            "minPrice": 501.6,
+            "maxPrice": 615.6
+        },
+        {
+            "name": "Composite Armor Boots",
+            "itemDescription": "This sci-fi looking bandana is composed of the strongest materials known by the ICT to help protect the wearer.",
+            "culture": "Boots",
+            "stack": 1,
+            "minPrice": 475.2,
+            "maxPrice": 583.2
+        },
+        {
+            "name": "Composite Armor Helmet",
+            "itemDescription": "This sci-fi looking bandana is composed of the strongest materials known by the ICT to help protect the wearer.",
+            "culture": "Helmet",
+            "stack": 1,
+            "minPrice": 501.6,
+            "maxPrice": 615.6
+        },
+        {
+            "name": "Composite Armor Chestplate",
+            "itemDescription": "This sci-fi looking chestplate is composed of the strongest materials known by the ITC to help protect the wearer.",
+            "culture": "Chestplate",
+            "stack": 1,
+            "minPrice": 501.6,
+            "maxPrice": 615.6
+        },
+        {
+            "name": "Forest Spirit Gloves",
+            "itemDescription": "Vines covered in thorns wrapped around one's hand to symbolize the simple death nature itself can provide.",
+            "culture": "Gloves",
+            "stack": 2,
+            "minPrice": 70.4,
+            "maxPrice": 86.4
+        },
+        {
+            "name": "Venom Twins Gloves",
+            "itemDescription": "Poisons. Small bags of poison residing inside the gloves inject a small dose of poison directly into your foes.",
+            "culture": "Gloves",
+            "stack": 2,
+            "minPrice": 70.4,
+            "maxPrice": 86.4
+        },
+        {
+            "name": "Knight Short Sword",
+            "itemDescription": "Superior metals of the Golem culture fuse with exquisite wood of the Forest culture to create this elaborate piece of equipment.",
+            "culture": "Sword and Shield",
+            "stack": 2,
+            "minPrice": 70.4,
+            "maxPrice": 86.4
+        },
+        {
+            "name": "Venom Short Sword",
+            "itemDescription": "Poisons. From the hilt, poison seeps down the blade to inflict lasting pain upon one's foes.",
+            "culture": "Sword and Shield",
+            "stack": 2,
+            "minPrice": 70.4,
+            "maxPrice": 86.4
+        },
+        {
+            "name": "Wild Big Sword",
+            "itemDescription": "I remember comparing that training sword to a baseball bat... this is truly a giant baseball bat.",
+            "culture": "Big Sword",
+            "stack": 2,
+            "minPrice": 70.4,
+            "maxPrice": 86.4
+        },
+        {
+            "name": "Toxic Big Sword",
+            "itemDescription": "Poisons. Forged by injecting the poisoned fluids of the Forest Dungeon directly into the wood.",
+            "culture": "Big Sword",
+            "stack": 2,
+            "minPrice": 70.4,
+            "maxPrice": 86.4
+        },
+        {
+            "name": "Wood's Spear",
+            "itemDescription": "Built strong, but incredibly flexible. Beautifully crafted from wood found from the Forest culture.",
+            "culture": "Spear",
+            "stack": 2,
+            "minPrice": 70.4,
+            "maxPrice": 86.4
+        },
+        {
+            "name": "Venom Sting Spear",
+            "itemDescription": "Poisons. A simplistic wooden spear, but poison running through the shaft into the spearhead will leave anyone in pain.",
+            "culture": "Spear",
+            "stack": 2,
+            "minPrice": 70.4,
+            "maxPrice": 86.4
+        },
+        {
+            "name": "Natural Bow",
+            "itemDescription": "The fiber based resources of the Forest culture come together here to create a remarkably light, yet powerful bow.",
+            "culture": "Bow",
+            "stack": 2,
+            "minPrice": 70.4,
+            "maxPrice": 86.4
+        },
+        {
+            "name": "Poison Bow",
+            "itemDescription": "Poisons. Upon knocking an arrow, it becomes poisoned via the venomous bowstring. Requires special care when using.",
+            "culture": "Bow",
+            "stack": 2,
+            "minPrice": 70.4,
+            "maxPrice": 86.4
+        },
+        {
+            "name": "Steel Boots II",
+            "itemDescription": "Offer resounding protection. Which is good, because one is not going to be dodging musch with this much metal strapped to their feet.",
+            "culture": "Boots",
+            "stack": 2,
+            "minPrice": 48.4,
+            "maxPrice": 59.4
+        },
+        {
+            "name": "Iron Boots II",
+            "itemDescription": "Originally mass produced for soldiers of the Grand Army, but works equally well for anyone Dungeon diving.",
+            "culture": "Boots",
+            "stack": 2,
+            "minPrice": 48.4,
+            "maxPrice": 59.4
+        },
+        {
+            "name": "Fabric Boots II",
+            "itemDescription": "Boots made out of resilient fabric. Perfect for travelers, but not the best at protecting feet from enemy attacks.",
+            "culture": "Boots",
+            "stack": 2,
+            "minPrice": 48.4,
+            "maxPrice": 59.4
+        },
+        {
+            "name": "Steel Chestplate II",
+            "itemDescription": "Chestplate offering the best protection against enemies. It's incredibly heavy though. Basically a chunk of steel strapped to ones chest.",
+            "culture": "Chestplate",
+            "stack": 2,
+            "minPrice": 48.4,
+            "maxPrice": 59.4
+        },
+        {
+            "name": "Iron Chestplate II",
+            "itemDescription": "Basic armor most commonly used by Merchants. Fairly light with decent resistance and mobility.",
+            "culture": "Chestplate",
+            "stack": 2,
+            "minPrice": 48.4,
+            "maxPrice": 59.4
+        },
+        {
+            "name": "Fabric Chestplate II",
+            "itemDescription": "The sturdy fabric of this tunic is durable while remaining light.",
+            "culture": "Chestplate",
+            "stack": 2,
+            "minPrice": 48.4,
+            "maxPrice": 59.4
+        },
+        {
+            "name": "Steel Helmet II",
+            "itemDescription": "Layers of the heaviest, thickest metals crafted into a sturdy, resilient, damage reducing helmet.",
+            "culture": "Helmet",
+            "stack": 2,
+            "minPrice": 48.4,
+            "maxPrice": 59.4
+        },
+        {
+            "name": "Iron Helmet II",
+            "itemDescription": "Headgear made from the lightest metals available. It's a trade off between armor and agility.",
+            "culture": "Helmet",
+            "stack": 2,
+            "minPrice": 48.4,
+            "maxPrice": 59.4
+        },
+        {
+            "name": "Fabric Bandana II",
+            "itemDescription": "This semi-ordinary bandana is weaved together with the strongest fibers to help protect the wearer.",
+            "culture": "Helmet",
+            "stack": 2,
+            "minPrice": 48.4,
+            "maxPrice": 59.4
+        },
+        {
+            "name": "Hero's Bow II",
+            "itemDescription": "Strange ancient bow made from materials that can't be found in this world.",
+            "culture": "Bow",
+            "stack": 2,
+            "minPrice": 70.4,
+            "maxPrice": 86.4
+        },
+        {
+            "name": "Hero's Sword II",
+            "itemDescription": "Old sword said to have been carried by a legendary hero.",
+            "culture": "Sword and Shield",
+            "stack": 2,
+            "minPrice": 70.4,
+            "maxPrice": 86.4
+        },
+        {
+            "name": "Ragnarok Big Sword II",
+            "itemDescription": "Big sword with so much strength in it that it is said to bring the end of the world.",
+            "culture": "Big Sword",
+            "stack": 2,
+            "minPrice": 556.6,
+            "maxPrice": 683.1
+        },
+        {
+            "name": "Ether Sable II",
+            "itemDescription": "Sword with a blade made by manipulating photons. Its design is owned by a dimensional militia.",
+            "culture": "Sword and Shield",
+            "stack": 2,
+            "minPrice": 556.6,
+            "maxPrice": 683.1
+        },
+        {
+            "name": "Valkyrie Spear II",
+            "itemDescription": "Spear carried by mighty female warriors in other dimension known for their skill at combat.",
+            "culture": "Spear",
+            "stack": 2,
+            "minPrice": 556.6,
+            "maxPrice": 683.1
+        },
+        {
+            "name": "Master Fists II",
+            "itemDescription": "The best design for a pair of gloves. Brought from a dimension where a famous contact warrior created them.",
+            "culture": "Gloves",
+            "stack": 2,
+            "minPrice": 556.6,
+            "maxPrice": 683.1
+        },
+        {
+            "name": "Runic Bow II",
+            "itemDescription": "Bow full of runes allowing it to create mortal immaterial arrows.",
+            "culture": "Bow",
+            "stack": 2,
+            "minPrice": 556.6,
+            "maxPrice": 683.1
+        },
+        {
+            "name": "Composite Armor Helmet II",
+            "itemDescription": "This sci-fi looking bandana is composed of the strongest materials known by the ICT to help protect the wearer.",
+            "culture": "Helmet",
+            "stack": 2,
+            "minPrice": 556.6,
+            "maxPrice": 683.1
+        },
+        {
+            "name": "Composite Armor Chestplate II",
+            "itemDescription": "This sci-fi looking chestplate is composed of the strongest materials known by the ITC to help protect the wearer.",
+            "culture": "Chestplate",
+            "stack": 2,
+            "minPrice": 556.6,
+            "maxPrice": 683.1
+        },
+        {
+            "name": "Composite Armor Boots II",
+            "itemDescription": "This sci-fi looking bandana is composed of the strongest materials known by the ICT to help protect the wearer.",
+            "culture": "Boots",
+            "stack": 2,
+            "minPrice": 556.6,
+            "maxPrice": 683.1
+        },
+        {
+            "name": "Captain Gloves",
+            "itemDescription": "Special alloy metals and an experimental smelting process makes these gloves stronger than most without adding unnecessary weight.",
+            "culture": "Gloves",
+            "stack": 3,
+            "minPrice": 281.6,
+            "maxPrice": 345.6
+        },
+        {
+            "name": "Flame Gloves",
+            "itemDescription": "Burns. The magnetic cores embedded in these gloves keep lava constantly flowing even while punching.",
+            "culture": "Gloves",
+            "stack": 3,
+            "minPrice": 281.6,
+            "maxPrice": 345.6
+        },
+        {
+            "name": "Commander Short Sword",
+            "itemDescription": "Casting from the lava of the Desert culture creates a powerful sword and shield to the standard of any commander worth their salt.",
+            "culture": "Sword and Shield",
+            "stack": 3,
+            "minPrice": 281.6,
+            "maxPrice": 345.6
+        },
+        {
+            "name": "Reborn Short Sword",
+            "itemDescription": "Burns. The flames of the forge never left this sword, the heat of the desert still radiating from the blade.",
+            "culture": "Sword and Shield",
+            "stack": 3,
+            "minPrice": 281.6,
+            "maxPrice": 345.6
+        },
+        {
+            "name": "Vulcan Big Sword",
+            "itemDescription": "One of the heaviest greatswords to come out of Rynoka. Forged from Desert Steel, it is an unstoppable, wrecking machine.",
+            "culture": "Big Sword",
+            "stack": 3,
+            "minPrice": 281.6,
+            "maxPrice": 345.6
+        },
+        {
+            "name": "Blaze Big Sword",
+            "itemDescription": "Burns. Must be the combination of lava infused directly into the metal.",
+            "culture": "Big Sword",
+            "stack": 3,
+            "minPrice": 281.6,
+            "maxPrice": 345.6
+        },
+        {
+            "name": "Monkey Spear",
+            "itemDescription": "The tale of the Monkey King comes to mind as one looks upon this crimson spear. Truly a spear worthy of him.",
+            "culture": "Spear",
+            "stack": 3,
+            "minPrice": 281.6,
+            "maxPrice": 345.6
+        },
+        {
+            "name": "Hell Spear",
+            "itemDescription": "Burns. The three desert suns reflect off of the shaft of this spear, directing high temperatures into the spear head.",
+            "culture": "Spear",
+            "stack": 3,
+            "minPrice": 281.6,
+            "maxPrice": 345.6
+        },
+        {
+            "name": "Soldier Bow",
+            "itemDescription": "Crudely crafted from the limited fibers of the Desert culture, this bow looks best in the hands of a soldier. Regardless, it gets the job done.",
+            "culture": "Bow",
+            "stack": 3,
+            "minPrice": 281.6,
+            "maxPrice": 345.6
+        },
+        {
+            "name": "Flamethrower Bow",
+            "itemDescription": "Burns. Lava flowing through the bow's core superheats the arrows, lighting them on fire.",
+            "culture": "Bow",
+            "stack": 3,
+            "minPrice": 281.6,
+            "maxPrice": 345.6
+        },
+        {
+            "name": "Steel Boots III",
+            "itemDescription": "Offer resounding protection. Which is good, because one is not going to be dodging musch with this much metal strapped to their feet.",
+            "culture": "Boots",
+            "stack": 3,
+            "minPrice": 105.6,
+            "maxPrice": 129.6
+        },
+        {
+            "name": "Iron Boots III",
+            "itemDescription": "Originally mass produced for soldiers of the Grand Army, but works equally well for anyone Dungeon diving.",
+            "culture": "Boots",
+            "stack": 3,
+            "minPrice": 105.6,
+            "maxPrice": 129.6
+        },
+        {
+            "name": "Fabric Boots III",
+            "itemDescription": "Boots made out of resilient fabric. Perfect for travelers, but not the best at protecting feet from enemy attacks.",
+            "culture": "Boots",
+            "stack": 3,
+            "minPrice": 105.6,
+            "maxPrice": 129.6
+        },
+        {
+            "name": "Steel Chestplate III",
+            "itemDescription": "Chestplate offering the best protection against enemies. It's incredibly heavy though. Basically a chunk of steel strapped to ones chest.",
+            "culture": "Chestplate",
+            "stack": 3,
+            "minPrice": 105.6,
+            "maxPrice": 129.6
+        },
+        {
+            "name": "Iron Chestplate III",
+            "itemDescription": "Basic armor most commonly used by Merchants. Fairly light with decent resistance and mobility.",
+            "culture": "Chestplate",
+            "stack": 3,
+            "minPrice": 105.6,
+            "maxPrice": 129.6
+        },
+        {
+            "name": "Fabric Chestplate III",
+            "itemDescription": "The sturdy fabric of this tunic is durable while remaining light.",
+            "culture": "Chestplate",
+            "stack": 3,
+            "minPrice": 105.6,
+            "maxPrice": 129.6
+        },
+        {
+            "name": "Steel Helmet III",
+            "itemDescription": "Layers of the heaviest, thickest metals crafted into a sturdy, resilient, damage reducing helmet.",
+            "culture": "Helmet",
+            "stack": 3,
+            "minPrice": 105.6,
+            "maxPrice": 129.6
+        },
+        {
+            "name": "Iron Helmet III",
+            "itemDescription": "Headgear made from the lightest metals available. It's a trade off between armor and agility.",
+            "culture": "Helmet",
+            "stack": 3,
+            "minPrice": 105.6,
+            "maxPrice": 129.6
+        },
+        {
+            "name": "Fabric Bandana III",
+            "itemDescription": "This semi-ordinary bandana is weaved together with the strongest fibers to help protect the wearer.",
+            "culture": "Helmet",
+            "stack": 3,
+            "minPrice": 105.6,
+            "maxPrice": 129.6
+        },
+        {
+            "name": "Hero's Bow III",
+            "itemDescription": "Strange ancient bow made from materials that can't be found in this world.",
+            "culture": "Bow",
+            "stack": 3,
+            "minPrice": 281.6,
+            "maxPrice": 345.6
+        },
+        {
+            "name": "Hero's Sword III",
+            "itemDescription": "Old sword said to have been carried by a legendary hero.",
+            "culture": "Sword and Shield",
+            "stack": 3,
+            "minPrice": 281.6,
+            "maxPrice": 345.6
+        },
+        {
+            "name": "Ether Sable III",
+            "itemDescription": "Sword with a blade made by manipulating photons. Its design is owned by a dimensional militia.",
+            "culture": "Sword and Shield",
+            "stack": 3,
+            "minPrice": 611.6,
+            "maxPrice": 750.6
+        },
+        {
+            "name": "Ragnarok Big Sword III",
+            "itemDescription": "Big sword with so much strength in it that it is said to bring the end of the world.",
+            "culture": "Big Sword",
+            "stack": 3,
+            "minPrice": 611.6,
+            "maxPrice": 750.6
+        },
+        {
+            "name": "Valkyrie Spear III",
+            "itemDescription": "Spear carried by mighty female warriors in other dimension known for their skill at combat.",
+            "culture": "Spear",
+            "stack": 3,
+            "minPrice": 611.6,
+            "maxPrice": 750.6
+        },
+        {
+            "name": "Master Fists III",
+            "itemDescription": "The best design for a pair of gloves. Brought from a dimension where a famous contact warrior created them.",
+            "culture": "Gloves",
+            "stack": 3,
+            "minPrice": 611.6,
+            "maxPrice": 750.6
+        },
+        {
+            "name": "Runic Bow III",
+            "itemDescription": "Bow full of runes allowing it to create mortal immaterial arrows.",
+            "culture": "Bow",
+            "stack": 3,
+            "minPrice": 611.6,
+            "maxPrice": 750.6
+        }
+    ]
+}
