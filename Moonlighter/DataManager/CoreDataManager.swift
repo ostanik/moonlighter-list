@@ -22,10 +22,9 @@ struct CoreDataManager {
             userDefaults.set(true, forKey: Constant.launchedKey)
 
             let items = try LocalDataManager.loadLocalData(from: .items, with: context) as [Item]
-            
 
             let weapons = try LocalDataManager.loadLocalData(from: .weapons, with: context) as [Weapon]
-            weapons.forEach{ $0.index() }
+            weapons.forEach { $0.index() }
         }
     }
 }
@@ -44,6 +43,6 @@ extension NSManagedObject {
         self.willAccessValue(forKey: key)
         let result = self.primitiveValue(forKey: key) as! ValueType.RawValue
         self.didAccessValue(forKey: key)
-        return ValueType(rawValue:result)
+        return ValueType(rawValue: result)
     }
 }

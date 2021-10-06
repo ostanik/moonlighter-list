@@ -15,7 +15,7 @@ public class Item: NSManagedObject, Decodable, Searchable {
 
     internal let domainIdentifier = "ostanik.moonlighter.item"
 
-    required convenience public init(from decoder:Decoder) throws {
+    required convenience public init(from decoder: Decoder) throws {
         guard
             let contextInfoKey = CodingUserInfoKey.context,
             let managedObjectContext = decoder.userInfo[contextInfoKey] as? NSManagedObjectContext,

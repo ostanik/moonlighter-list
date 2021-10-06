@@ -9,7 +9,7 @@
 import Foundation
 import SwiftUI
 
-struct ItemView : View {
+struct ItemView: View {
 
     let name: String?
     let minPrice: Double
