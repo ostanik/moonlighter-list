@@ -18,7 +18,7 @@ struct ContentView: View {
             VStack {
                 SearchBar(text: $searchText, placeholder: "Type an item to search")
                 List {
-                    ForEach(items.map{ $0 as Item }.whereName(contains: searchText), id: \.id) { item in
+                    ForEach(items.map { $0 as Item }.whereName(contains: searchText), id: \.id) { item in
                         ItemView(name: item.name, minPrice: item.minPrice, maxPrice: item.maxPrice)
                     }
                 }
@@ -32,5 +32,3 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
-
-

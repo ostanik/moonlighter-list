@@ -11,7 +11,7 @@ import Foundation
 extension UserDefaults {
 
     class func clean() {
-        
+
         guard let aValidIdentifier = Bundle.main.bundleIdentifier else { return }
         standard.removePersistentDomain(forName: aValidIdentifier)
         standard.synchronize()

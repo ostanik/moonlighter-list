@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-struct SearchBar : UIViewRepresentable {
+struct SearchBar: UIViewRepresentable {
     @Binding var text: String
     var placeholder: String
 
